@@ -1,2 +1,2 @@
-# cveye
+# CVEye
 AI powered vulnerability triage
